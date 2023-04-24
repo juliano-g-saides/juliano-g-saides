@@ -14,7 +14,7 @@ trabalhos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name : devedobro
+          github_user_name : juliano-g-saides
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
